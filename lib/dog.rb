@@ -1,4 +1,4 @@
-class Dog < ActiveRecord
+class Dog < ActiveRecord::BASE
   
   
   
